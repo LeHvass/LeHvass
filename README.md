@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Angular, Firebase**
 
-- 👨‍💻 Some of my old projects available at [chvass.dk](chvass.dk)
+- 👨‍💻 Some of my old projects available at [chvass.dk](https://chvass.dk)
 
 - 📫 Reach me at **hvass.christian@gmail.com**
 
