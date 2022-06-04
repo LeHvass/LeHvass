@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Christian</h1>
-<h3 align="center">A passionate web developer from Denmark</h3>
+<h3 align="center">A Solution Architect from Denmark</h3>
 
-- 🔭 I’m currently working on a side project in Angular and Firebase to organize and track music practice
+- 🔭 I’m currently working for Enterdeep ApS as a Solution Architect, with a focus on data, tracking & analytics (Google Cloud Platform, Google Tag Manager, Google Analytics)
 
-- 🌱 I’m currently learning **Angular, Firebase**
+- 🌱 I’m currently expanding my knowledge on **Google Analytics 4, Google Optimize**
 
 - 👨‍💻 Some of my old projects available at [chvass.dk](https://chvass.dk)
 
