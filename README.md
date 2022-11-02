@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Christian</h1>
 <h3 align="center">A Solution Architect from Denmark</h3>
-<p>🔭 I’m currently working for Enterdeep ApS as a Solution Architect, with a focus on <b>Data</b>, <b>Tracking</b> & <b>Analytics</b>.</p>
+<p>🔭 I currently work as an independent consultant with a focus on <b>Ecommerce</b>, <b>Tracking</b> & <b>Analytics</b>.</p>
 <ul>
 	<li>Google Cloud Platform (GCP)</li>
 	<li>Google Tag Manager</li>
