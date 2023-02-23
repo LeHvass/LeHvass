@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Christian</h1>
-<h3 align="center">A Solution Architect from Denmark</h3>
+<h3 align="center">A Technical Marketing Consultant / Solution Architect from Denmark</h3>
 <p>🔭 I currently work as an independent consultant with a focus on <b>Ecommerce</b>, <b>Tracking</b> & <b>Analytics</b>.</p>
 <ul>
 	<li>Google Cloud Platform (GCP)</li>
-	<li>Google Tag Manager</li>
+	<li>Google Tag Manager (GTM & sGTM)</li>
 	<li>Google Analytics (UA & GA4)</li>
 </ul>
 <h4>Google Cloud Platform Certifications:</h4>
@@ -12,9 +12,8 @@
 	<li>Professional Cloud Architect</li>
 	<li>Associate Cloud Engineer</li>
 </ul>
-<p>🌱 I’m currently expanding my knowledge on <b>Google Analytics 4</b>, <b>Google Optimize</b></p>
-<p>👨‍💻 Some of my old projects available at <b><a href="https://chvass.dk">chvass.dk</a></b></p>
-<p>📫 Reach me at <b><a href="mailto:hvass.christian@gmail.com">hvass.christian@gmail.com</a></b></p>
+<p>🌱 I’m currently expanding my knowledge on <b>Google Analytics 4 (GA4)</b>, and <b>Server-side Google Tag Manager (sGTM)</b></p>
+<p>📫 Reach me at <b><a href="mailto:coh@cohsolutions.com">coh@cohsolutions.com</a></b></p>
 <p align="left">
 	<h3 align="left">Connect with me:</h3>
 	<a href="https://linkedin.com/in/christian-hvass" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="christian-hvass" height="30" width="40" /></a>
@@ -34,7 +33,6 @@
 	<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a>
 	<a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40" /> </a>
 	<a href="https://jestjs.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40" /> </a>
-	<a href="https://www.linux.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="40" height="40" /> </a>
 	<a href="https://www.mongodb.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" /> </a>
 	<a href="https://www.mysql.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" /> </a>
 	<a href="https://www.php.net" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="40" height="40" /> </a>
